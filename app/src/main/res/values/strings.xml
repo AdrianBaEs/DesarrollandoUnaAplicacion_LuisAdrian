@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FormularioContacto</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Correo electrónico</string>
+    <string name="descripcion_contacto">Acerca del contacto</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="guardar_fecha">GUARDAR ESTA FECHA</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="fecha">Fecha</string>
+    <string name="confirmacion_datos">CONFIRMAR DATOS</string>
+    <string name="editar_datos">EDITAR DATOS</string>
+    <string name="dia_nacimiento">dia de nacimiento</string>
+    <string name="mes_nacimiento">mes de nacimiento</string>
+    <string name="año_nacimiento">año de nacimiento</string>
+    <string name="contador">contador</string>
+    <string name="mensaje_snackbar">Debes ingresar todos los datos</string>
+</resources>
